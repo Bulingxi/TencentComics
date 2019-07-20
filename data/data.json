@@ -1,0 +1,113 @@
+{
+"indexList":{
+	"src1":[
+			{
+				"path":"/comicInfo",
+				"src":"./data/images/indexbook1.jpg",
+				"title":"狐妖小红娘",
+				"txt":"呆萌狐狸爱上二货道"
+			},
+			{
+				"path":"/comicInfo",
+				"src":"./data/images/indexbook2.jpg",
+				"title":"一人之下",
+				"txt":"身怀异术该何去何从"
+			},
+			{
+				"path":"/comicInfo",
+				"src":"./data/images/indexbook3.jpg",
+				"title":"铁姬钢兵",
+				"txt":"屌丝统领三千机娘"
+			},
+			{
+				"path":"/comicInfo",
+				"src":"./data/images/indexbook4.jpg",
+				"title":"我才不是恶毒女配",
+				"txt":"身怀异术该何去何从"
+			},
+			{
+				"path":"/comicInfo",
+				"src":"./data/images/indexbook5.jpg",
+				"title":"阿多尼斯",
+				"txt":"重生女主征服世界"
+			},
+			{
+				"path":"/comicInfo",
+				"src":"./data/images/indexbook6.jpg",
+				"title":"老婆大人有点冷",
+				"txt":"身怀异术该何去何从"
+			}
+			
+		],
+	"src2":[
+		{
+			"uppic":"./data/images/update-pic1.jpg",
+			"uptitle":"魔王的轮舞曲",
+			"upartist":"作者：躺着吧",
+			"uplatest":"更新到29话",
+			"upscore":"9.2"
+		},
+		{
+			"uppic":"./data/images/update-pic2.jpg",
+			"uptitle":"长城守卫军·盛世长安篇",
+			"upartist":"作者：王者荣耀IP团队",
+			"uplatest":"更新到40话",
+			"upscore":"9.3"
+		},
+		{
+			"uppic":"./data/images/update-pic3.jpg",
+			"uptitle":"救世主别逃债",
+			"upartist":"作者：一笔亿画",
+			"uplatest":"更新到4话",
+			"upscore":"9.1"
+		}
+	],
+	"src3":[
+			{
+				"src":"./data/images/japan1.jpg",
+				"title":"真实账号",
+				"txt":"热血 冒险 科幻"
+			},
+			{
+				"src":"./data/images/japan2.jpg",
+				"title":"七人传奇",
+				"txt":"热血 冒险 玄幻"
+			},
+			{
+				"src":"./data/images/japan3.jpg",
+				"title":"干物妹！小埋",
+				"txt":"爆笑 萌系 生活"
+			}
+		],
+		"src4":[
+				{
+					"src":"./data/images/new1.jpg",
+					"title":"龙俦纪",
+					"txt":"玄幻 冒险"
+				},
+				{
+					"src":"./data/images/new2.jpg",
+					"title":"美食供应商",
+					"txt":"爆笑 都市"
+				},
+				{
+					"src":"./data/images/new3.jpg",
+					"title":"我的魔女老师",
+					"txt":"校园 爆笑"
+				}
+				
+			]
+
+
+	}
+
+}
+
+
+
+
+
+
+
+
+
